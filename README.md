@@ -46,7 +46,8 @@ Version 1.0 - First Version
 
 ## Authors
 
-* **Neha verma** - 
+**Neha verma** 
+ 
 
 ## License
 
